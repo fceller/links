@@ -1,4 +1,5 @@
 * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+  * [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
